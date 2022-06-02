@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "skill": "Technical",
+    "rating": 0
+  },
+  {
+    "id": 2,
+    "skill": "Communication",
+    "rating": 0
+  },
+  {
+    "id": 3,
+    "skill": "Managerial",
+    "rating": 0
+  },
+  {
+    "id": 4,
+    "skill": "Leadership",
+    "rating": 0
+  }
+]
